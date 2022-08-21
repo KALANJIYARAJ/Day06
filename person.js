@@ -20,9 +20,9 @@ class Person{
     person3  = new Person("kanna","kr",22,"RMD","MCA");
     person4  = new Person("karthi","Kumar",26,"RMD","MBA");
 
-   console.log(person1.getPersonDetails());
+   console.log(person1.getPersonDetails());  //Name : keerthi Vasan, Age: 10, Place: chennai, Qualification: BCA
 
-console.log(person1.getAllNames());
-console.log(person2.getAllNames());
-console.log(person3.getAllNames());
-console.log(person4.getAllNames());
+console.log(person1.getAllNames());  //keerthi Vasan
+console.log(person2.getAllNames());  //Kalanjiya Raj
+console.log(person3.getAllNames());  //kanna kr
+console.log(person4.getAllNames());  //karthi Kumar
